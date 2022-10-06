@@ -11,14 +11,14 @@
 
 ## Agenda
 
-* 9:00 Introduction and goals of the workshop
-* 9:10 **Sonia Pujol** General Slicer introduction
-* 9:40 **Junichi Tokuda** Slicer as a platform for image-guided therapy research
+* 9:00  Introduction and goals of the workshop
+* 9:10  **Sonia Pujol** *"General Slicer introduction"*
+* 9:40  **Junichi Tokuda** *"Slicer as a platform for image-guided therapy research"*
 * 10:10 Break
-* 10:30 **Pedro Moreira** Slicer interface with robots and MRI-guided procedures
-* 11:00 **Mariana Bernardes** Slicer interface with robots and Ultrasound images
-* 11:30 **Adriana Vilchis-González** 3D Slicer in clinical practice: Level-1 hospitals
-* 12:10 **Sonia Pujol** Slicer Internationalization
+* 10:30 **Pedro Moreira** *"Slicer interface with robots and MRI-guided procedures"*
+* 11:00 **Mariana Bernardes** *"Slicer interface with robots and Ultrasound images"*
+* 11:30 **Adriana Vilchis-González** *"3D Slicer in clinical practice: Level-1 hospitals"*
+* 12:10 **Sonia Pujol** *"Slicer Internationalization"*
 * 12:15 **Q&A session** [Questions accepted in English, Spanish, Portuguese or French] 
 
 
