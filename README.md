@@ -11,15 +11,15 @@
 
 ## Agenda
 
-9:00-9:10 Introduction and goals of the workshop
-9:10-9:40 General Slicer introduction
-9:40-10:10 Slicer as a platform for image-guided therapy research
-10:10-10:30 Break
-10:30-11 Interface with robots - MRI 
-11:00-11:30 Interface with robots - Ultrasound
-11:30-12 Adriana (Clinical practice: Level-1 hospital)
-12:10-12:15 Slicer Internationalization
-12-12:30 pm Q&A session (30 min) [ All languages welcome] 
+* 9:00 Introduction and goals of the workshop
+* 9:10 General Slicer introduction
+* 9:40 Slicer as a platform for image-guided therapy research
+* 10:10 Break
+* 10:30 nterface with robots - MRI 
+* 11:00 Interface with robots - Ultrasound
+* 11:30 Adriana (Clinical practice: Level-1 hospital)
+* 12:10 Slicer Internationalization
+* 12:15 Q&A session (30 min) [ All languages welcome] 
 
 
 ## References
