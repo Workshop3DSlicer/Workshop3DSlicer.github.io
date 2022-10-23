@@ -10,17 +10,18 @@
 * Junichi Tokuda (Brigham and Women’s Hospital and Harvard Medical School, USA)
 * Adriana H. Vilchis-González (Universidad Autónoma del Estado de México, Mexico)
 
-## Agenda
+## Agenda - Time is in UTC-3
 
 * 9:00  Introduction and goals of the workshop
 * 9:10  **Sonia Pujol** *"General Slicer introduction"*
-* 9:40  **Junichi Tokuda** *"Slicer as a platform for image-guided therapy research"*
+* 9:40  **Junichi Tokuda** *"Slicer as a platform for image-guided therapy"*
 * 10:10 Break
-* 10:30 **Pedro Moreira** *"Slicer interface with robots and MRI-guided procedures"*
-* 11:00 **Mariana Bernardes** *"Slicer interface with robots and Ultrasound images"*
-* 11:30 **Adriana Vilchis-González** *"3D Slicer in clinical practice: Level-1 hospitals"*
-* 12:10 **Sonia Pujol** *"Slicer Internationalization"*
-* 12:15 **Q&A session** [Questions accepted in English, Spanish, Portuguese or French] 
+* 10:30 **Pedro Moreira** *"Integration of 3D Slicer and ROS for robot-assisted procedures"*
+* 11:00 **Mariana Bernardes** *"3D Slicer interface with medical devices and US images"*
+* 11:30 **Adriana Vilchis-González** *"3D Slicer Project in Mexico – Latin-America"*
+* 12:00 **Sonia Pujol** *"Slicer Internationalization"*
+* 12:15 **Q&A session** [Questions accepted in English, Spanish, Portuguese or French]
+* 12:30 Concluding Remarks
 
 
 ## References
