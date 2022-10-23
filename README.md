@@ -28,4 +28,7 @@
 - [3D Slicer](https://www.slicer.org/)
 - [Robot Operating System](http://www.ros.org/)
 - [CLAIB & CBEB 2022](https://www.cbeb.org.br/en/)
+- [OpenIGTLink](http://openigtlink.org/)
+- [PLUS toolkit](https://plustoolkit.github.io/)
+
 
