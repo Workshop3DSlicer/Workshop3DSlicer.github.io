@@ -10,7 +10,7 @@
 * Junichi Tokuda (Brigham and Women’s Hospital and Harvard Medical School, USA)
 * Adriana H. Vilchis-González (Universidad Autónoma del Estado de México, Mexico)
 
-## Agenda - Time is in UTC-3
+## Agenda (Times in UTC-3)
 
 * 9:00  Introduction and goals of the workshop
 * 9:10  **Sonia Pujol** *"General Slicer introduction"*
