@@ -29,4 +29,3 @@
 - [Robot Operating System](http://www.ros.org/)
 - [CLAIB & CBEB 2022](https://www.cbeb.org.br/en/)
 
-## Acknowledgments
