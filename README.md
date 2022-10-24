@@ -26,9 +26,16 @@
 
 ## References
 - [3D Slicer](https://www.slicer.org/)
-- [Robot Operating System](http://www.ros.org/)
-- [CLAIB & CBEB 2022](https://www.cbeb.org.br/en/)
 - [OpenIGTLink](http://openigtlink.org/)
 - [PLUS toolkit](https://plustoolkit.github.io/)
+- [Robot Operating System](http://www.ros.org/)
+- [CLAIB & CBEB 2022](https://www.cbeb.org.br/en/)
+
+## Contact
+- spujol AT bwh.harvard.edu
+- tokuda AT bwh.harvard.edu
+- plopesdafrotamoreira AT bwh.harvard.edu
+- mcostabernardesmatias AT bwh.harvard.edu
+- avilchisg AT uaemex.mx
 
 
